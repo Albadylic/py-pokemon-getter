@@ -1,6 +1,8 @@
 import requests
 import json
 
+outcome = []
+
 def makeReq(id):
     url = 'https://pokeapi.co/api/v2/pokemon/'
     response = requests.get(f"{url}{id}/")
@@ -12,9 +14,11 @@ def makeReq(id):
             'name': data['name'],
             'types': data['types']
         }
-        print(json.dumps(relevantData, indent=2))  # Pretty-print the JSON response
+        return relevantData
     else:
         print(f"Error: {response.status_code}")
 
-for i in range(0,3):
-    makeReq(i)
+for i in range(1,3):
+    outcome.append(makeReq(i))
+
+print(outcome)
