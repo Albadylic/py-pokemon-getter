@@ -18,7 +18,10 @@ def makeReq(id):
     else:
         print(f"Error: {response.status_code}")
 
-for i in range(1,3):
+for i in range(1,387):
     outcome.append(makeReq(i))
 
-print(outcome)
+with open('data.json', 'w', encoding='utf-8') as f:
+    json.dump(outcome, f, ensure_ascii=False, indent=4)
+
+print('complete')
