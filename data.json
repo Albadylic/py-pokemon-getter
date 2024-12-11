@@ -17,7 +17,8 @@
                     "url": "https://pokeapi.co/api/v2/type/4/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png"
     },
     {
         "id": 2,
@@ -37,7 +38,8 @@
                     "url": "https://pokeapi.co/api/v2/type/4/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/2.png"
     },
     {
         "id": 3,
@@ -57,7 +59,8 @@
                     "url": "https://pokeapi.co/api/v2/type/4/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png"
     },
     {
         "id": 4,
@@ -70,7 +73,8 @@
                     "url": "https://pokeapi.co/api/v2/type/10/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png"
     },
     {
         "id": 5,
@@ -83,7 +87,8 @@
                     "url": "https://pokeapi.co/api/v2/type/10/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/5.png"
     },
     {
         "id": 6,
@@ -103,7 +108,8 @@
                     "url": "https://pokeapi.co/api/v2/type/3/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png"
     },
     {
         "id": 7,
@@ -116,7 +122,8 @@
                     "url": "https://pokeapi.co/api/v2/type/11/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png"
     },
     {
         "id": 8,
@@ -129,7 +136,8 @@
                     "url": "https://pokeapi.co/api/v2/type/11/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/8.png"
     },
     {
         "id": 9,
@@ -142,7 +150,8 @@
                     "url": "https://pokeapi.co/api/v2/type/11/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/9.png"
     },
     {
         "id": 10,
@@ -155,7 +164,8 @@
                     "url": "https://pokeapi.co/api/v2/type/7/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10.png"
     },
     {
         "id": 11,
@@ -168,7 +178,8 @@
                     "url": "https://pokeapi.co/api/v2/type/7/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/11.png"
     },
     {
         "id": 12,
@@ -188,7 +199,8 @@
                     "url": "https://pokeapi.co/api/v2/type/3/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/12.png"
     },
     {
         "id": 13,
@@ -208,7 +220,8 @@
                     "url": "https://pokeapi.co/api/v2/type/4/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/13.png"
     },
     {
         "id": 14,
@@ -228,7 +241,8 @@
                     "url": "https://pokeapi.co/api/v2/type/4/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/14.png"
     },
     {
         "id": 15,
@@ -248,7 +262,8 @@
                     "url": "https://pokeapi.co/api/v2/type/4/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/15.png"
     },
     {
         "id": 16,
@@ -268,7 +283,8 @@
                     "url": "https://pokeapi.co/api/v2/type/3/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/16.png"
     },
     {
         "id": 17,
@@ -288,7 +304,8 @@
                     "url": "https://pokeapi.co/api/v2/type/3/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/17.png"
     },
     {
         "id": 18,
@@ -308,7 +325,8 @@
                     "url": "https://pokeapi.co/api/v2/type/3/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/18.png"
     },
     {
         "id": 19,
@@ -321,7 +339,8 @@
                     "url": "https://pokeapi.co/api/v2/type/1/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/19.png"
     },
     {
         "id": 20,
@@ -334,7 +353,8 @@
                     "url": "https://pokeapi.co/api/v2/type/1/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/20.png"
     },
     {
         "id": 21,
@@ -354,7 +374,8 @@
                     "url": "https://pokeapi.co/api/v2/type/3/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/21.png"
     },
     {
         "id": 22,
@@ -374,7 +395,8 @@
                     "url": "https://pokeapi.co/api/v2/type/3/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/22.png"
     },
     {
         "id": 23,
@@ -387,7 +409,8 @@
                     "url": "https://pokeapi.co/api/v2/type/4/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/23.png"
     },
     {
         "id": 24,
@@ -400,7 +423,8 @@
                     "url": "https://pokeapi.co/api/v2/type/4/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/24.png"
     },
     {
         "id": 25,
@@ -413,7 +437,8 @@
                     "url": "https://pokeapi.co/api/v2/type/13/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png"
     },
     {
         "id": 26,
@@ -426,7 +451,8 @@
                     "url": "https://pokeapi.co/api/v2/type/13/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/26.png"
     },
     {
         "id": 27,
@@ -439,7 +465,8 @@
                     "url": "https://pokeapi.co/api/v2/type/5/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/27.png"
     },
     {
         "id": 28,
@@ -452,7 +479,8 @@
                     "url": "https://pokeapi.co/api/v2/type/5/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/28.png"
     },
     {
         "id": 29,
@@ -465,7 +493,8 @@
                     "url": "https://pokeapi.co/api/v2/type/4/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/29.png"
     },
     {
         "id": 30,
@@ -478,7 +507,8 @@
                     "url": "https://pokeapi.co/api/v2/type/4/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/30.png"
     },
     {
         "id": 31,
@@ -498,7 +528,8 @@
                     "url": "https://pokeapi.co/api/v2/type/5/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/31.png"
     },
     {
         "id": 32,
@@ -511,7 +542,8 @@
                     "url": "https://pokeapi.co/api/v2/type/4/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/32.png"
     },
     {
         "id": 33,
@@ -524,7 +556,8 @@
                     "url": "https://pokeapi.co/api/v2/type/4/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/33.png"
     },
     {
         "id": 34,
@@ -544,7 +577,8 @@
                     "url": "https://pokeapi.co/api/v2/type/5/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/34.png"
     },
     {
         "id": 35,
@@ -557,7 +591,8 @@
                     "url": "https://pokeapi.co/api/v2/type/18/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/35.png"
     },
     {
         "id": 36,
@@ -570,7 +605,8 @@
                     "url": "https://pokeapi.co/api/v2/type/18/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/36.png"
     },
     {
         "id": 37,
@@ -583,7 +619,8 @@
                     "url": "https://pokeapi.co/api/v2/type/10/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/37.png"
     },
     {
         "id": 38,
@@ -596,7 +633,8 @@
                     "url": "https://pokeapi.co/api/v2/type/10/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/38.png"
     },
     {
         "id": 39,
@@ -616,7 +654,8 @@
                     "url": "https://pokeapi.co/api/v2/type/18/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/39.png"
     },
     {
         "id": 40,
@@ -636,7 +675,8 @@
                     "url": "https://pokeapi.co/api/v2/type/18/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/40.png"
     },
     {
         "id": 41,
@@ -656,7 +696,8 @@
                     "url": "https://pokeapi.co/api/v2/type/3/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/41.png"
     },
     {
         "id": 42,
@@ -676,7 +717,8 @@
                     "url": "https://pokeapi.co/api/v2/type/3/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/42.png"
     },
     {
         "id": 43,
@@ -696,7 +738,8 @@
                     "url": "https://pokeapi.co/api/v2/type/4/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/43.png"
     },
     {
         "id": 44,
@@ -716,7 +759,8 @@
                     "url": "https://pokeapi.co/api/v2/type/4/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/44.png"
     },
     {
         "id": 45,
@@ -736,7 +780,8 @@
                     "url": "https://pokeapi.co/api/v2/type/4/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/45.png"
     },
     {
         "id": 46,
@@ -756,7 +801,8 @@
                     "url": "https://pokeapi.co/api/v2/type/12/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/46.png"
     },
     {
         "id": 47,
@@ -776,7 +822,8 @@
                     "url": "https://pokeapi.co/api/v2/type/12/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/47.png"
     },
     {
         "id": 48,
@@ -796,7 +843,8 @@
                     "url": "https://pokeapi.co/api/v2/type/4/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/48.png"
     },
     {
         "id": 49,
@@ -816,7 +864,8 @@
                     "url": "https://pokeapi.co/api/v2/type/4/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/49.png"
     },
     {
         "id": 50,
@@ -829,7 +878,8 @@
                     "url": "https://pokeapi.co/api/v2/type/5/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/50.png"
     },
     {
         "id": 51,
@@ -842,7 +892,8 @@
                     "url": "https://pokeapi.co/api/v2/type/5/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/51.png"
     },
     {
         "id": 52,
@@ -855,7 +906,8 @@
                     "url": "https://pokeapi.co/api/v2/type/1/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/52.png"
     },
     {
         "id": 53,
@@ -868,7 +920,8 @@
                     "url": "https://pokeapi.co/api/v2/type/1/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/53.png"
     },
     {
         "id": 54,
@@ -881,7 +934,8 @@
                     "url": "https://pokeapi.co/api/v2/type/11/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/54.png"
     },
     {
         "id": 55,
@@ -894,7 +948,8 @@
                     "url": "https://pokeapi.co/api/v2/type/11/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/55.png"
     },
     {
         "id": 56,
@@ -907,7 +962,8 @@
                     "url": "https://pokeapi.co/api/v2/type/2/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/56.png"
     },
     {
         "id": 57,
@@ -920,7 +976,8 @@
                     "url": "https://pokeapi.co/api/v2/type/2/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/57.png"
     },
     {
         "id": 58,
@@ -933,7 +990,8 @@
                     "url": "https://pokeapi.co/api/v2/type/10/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/58.png"
     },
     {
         "id": 59,
@@ -946,7 +1004,8 @@
                     "url": "https://pokeapi.co/api/v2/type/10/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/59.png"
     },
     {
         "id": 60,
@@ -959,7 +1018,8 @@
                     "url": "https://pokeapi.co/api/v2/type/11/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/60.png"
     },
     {
         "id": 61,
@@ -972,7 +1032,8 @@
                     "url": "https://pokeapi.co/api/v2/type/11/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/61.png"
     },
     {
         "id": 62,
@@ -992,7 +1053,8 @@
                     "url": "https://pokeapi.co/api/v2/type/2/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/62.png"
     },
     {
         "id": 63,
@@ -1005,7 +1067,8 @@
                     "url": "https://pokeapi.co/api/v2/type/14/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/63.png"
     },
     {
         "id": 64,
@@ -1018,7 +1081,8 @@
                     "url": "https://pokeapi.co/api/v2/type/14/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/64.png"
     },
     {
         "id": 65,
@@ -1031,7 +1095,8 @@
                     "url": "https://pokeapi.co/api/v2/type/14/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/65.png"
     },
     {
         "id": 66,
@@ -1044,7 +1109,8 @@
                     "url": "https://pokeapi.co/api/v2/type/2/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/66.png"
     },
     {
         "id": 67,
@@ -1057,7 +1123,8 @@
                     "url": "https://pokeapi.co/api/v2/type/2/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/67.png"
     },
     {
         "id": 68,
@@ -1070,7 +1137,8 @@
                     "url": "https://pokeapi.co/api/v2/type/2/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/68.png"
     },
     {
         "id": 69,
@@ -1090,7 +1158,8 @@
                     "url": "https://pokeapi.co/api/v2/type/4/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/69.png"
     },
     {
         "id": 70,
@@ -1110,7 +1179,8 @@
                     "url": "https://pokeapi.co/api/v2/type/4/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/70.png"
     },
     {
         "id": 71,
@@ -1130,7 +1200,8 @@
                     "url": "https://pokeapi.co/api/v2/type/4/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/71.png"
     },
     {
         "id": 72,
@@ -1150,7 +1221,8 @@
                     "url": "https://pokeapi.co/api/v2/type/4/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/72.png"
     },
     {
         "id": 73,
@@ -1170,7 +1242,8 @@
                     "url": "https://pokeapi.co/api/v2/type/4/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/73.png"
     },
     {
         "id": 74,
@@ -1190,7 +1263,8 @@
                     "url": "https://pokeapi.co/api/v2/type/5/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/74.png"
     },
     {
         "id": 75,
@@ -1210,7 +1284,8 @@
                     "url": "https://pokeapi.co/api/v2/type/5/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/75.png"
     },
     {
         "id": 76,
@@ -1230,7 +1305,8 @@
                     "url": "https://pokeapi.co/api/v2/type/5/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/76.png"
     },
     {
         "id": 77,
@@ -1243,7 +1319,8 @@
                     "url": "https://pokeapi.co/api/v2/type/10/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/77.png"
     },
     {
         "id": 78,
@@ -1256,7 +1333,8 @@
                     "url": "https://pokeapi.co/api/v2/type/10/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/78.png"
     },
     {
         "id": 79,
@@ -1276,7 +1354,8 @@
                     "url": "https://pokeapi.co/api/v2/type/14/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/79.png"
     },
     {
         "id": 80,
@@ -1296,7 +1375,8 @@
                     "url": "https://pokeapi.co/api/v2/type/14/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/80.png"
     },
     {
         "id": 81,
@@ -1316,7 +1396,8 @@
                     "url": "https://pokeapi.co/api/v2/type/9/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/81.png"
     },
     {
         "id": 82,
@@ -1336,7 +1417,8 @@
                     "url": "https://pokeapi.co/api/v2/type/9/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/82.png"
     },
     {
         "id": 83,
@@ -1356,7 +1438,8 @@
                     "url": "https://pokeapi.co/api/v2/type/3/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/83.png"
     },
     {
         "id": 84,
@@ -1376,7 +1459,8 @@
                     "url": "https://pokeapi.co/api/v2/type/3/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/84.png"
     },
     {
         "id": 85,
@@ -1396,7 +1480,8 @@
                     "url": "https://pokeapi.co/api/v2/type/3/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/85.png"
     },
     {
         "id": 86,
@@ -1409,7 +1494,8 @@
                     "url": "https://pokeapi.co/api/v2/type/11/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/86.png"
     },
     {
         "id": 87,
@@ -1429,7 +1515,8 @@
                     "url": "https://pokeapi.co/api/v2/type/15/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/87.png"
     },
     {
         "id": 88,
@@ -1442,7 +1529,8 @@
                     "url": "https://pokeapi.co/api/v2/type/4/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/88.png"
     },
     {
         "id": 89,
@@ -1455,7 +1543,8 @@
                     "url": "https://pokeapi.co/api/v2/type/4/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/89.png"
     },
     {
         "id": 90,
@@ -1468,7 +1557,8 @@
                     "url": "https://pokeapi.co/api/v2/type/11/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/90.png"
     },
     {
         "id": 91,
@@ -1488,7 +1578,8 @@
                     "url": "https://pokeapi.co/api/v2/type/15/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/91.png"
     },
     {
         "id": 92,
@@ -1508,7 +1599,8 @@
                     "url": "https://pokeapi.co/api/v2/type/4/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/92.png"
     },
     {
         "id": 93,
@@ -1528,7 +1620,8 @@
                     "url": "https://pokeapi.co/api/v2/type/4/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/93.png"
     },
     {
         "id": 94,
@@ -1548,7 +1641,8 @@
                     "url": "https://pokeapi.co/api/v2/type/4/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/94.png"
     },
     {
         "id": 95,
@@ -1568,7 +1662,8 @@
                     "url": "https://pokeapi.co/api/v2/type/5/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/95.png"
     },
     {
         "id": 96,
@@ -1581,7 +1676,8 @@
                     "url": "https://pokeapi.co/api/v2/type/14/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/96.png"
     },
     {
         "id": 97,
@@ -1594,7 +1690,8 @@
                     "url": "https://pokeapi.co/api/v2/type/14/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/97.png"
     },
     {
         "id": 98,
@@ -1607,7 +1704,8 @@
                     "url": "https://pokeapi.co/api/v2/type/11/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/98.png"
     },
     {
         "id": 99,
@@ -1620,7 +1718,8 @@
                     "url": "https://pokeapi.co/api/v2/type/11/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/99.png"
     },
     {
         "id": 100,
@@ -1633,7 +1732,8 @@
                     "url": "https://pokeapi.co/api/v2/type/13/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/100.png"
     },
     {
         "id": 101,
@@ -1646,7 +1746,8 @@
                     "url": "https://pokeapi.co/api/v2/type/13/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/101.png"
     },
     {
         "id": 102,
@@ -1666,7 +1767,8 @@
                     "url": "https://pokeapi.co/api/v2/type/14/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/102.png"
     },
     {
         "id": 103,
@@ -1686,7 +1788,8 @@
                     "url": "https://pokeapi.co/api/v2/type/14/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/103.png"
     },
     {
         "id": 104,
@@ -1699,7 +1802,8 @@
                     "url": "https://pokeapi.co/api/v2/type/5/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/104.png"
     },
     {
         "id": 105,
@@ -1712,7 +1816,8 @@
                     "url": "https://pokeapi.co/api/v2/type/5/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/105.png"
     },
     {
         "id": 106,
@@ -1725,7 +1830,8 @@
                     "url": "https://pokeapi.co/api/v2/type/2/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/106.png"
     },
     {
         "id": 107,
@@ -1738,7 +1844,8 @@
                     "url": "https://pokeapi.co/api/v2/type/2/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/107.png"
     },
     {
         "id": 108,
@@ -1751,7 +1858,8 @@
                     "url": "https://pokeapi.co/api/v2/type/1/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/108.png"
     },
     {
         "id": 109,
@@ -1764,7 +1872,8 @@
                     "url": "https://pokeapi.co/api/v2/type/4/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/109.png"
     },
     {
         "id": 110,
@@ -1777,7 +1886,8 @@
                     "url": "https://pokeapi.co/api/v2/type/4/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/110.png"
     },
     {
         "id": 111,
@@ -1797,7 +1907,8 @@
                     "url": "https://pokeapi.co/api/v2/type/6/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/111.png"
     },
     {
         "id": 112,
@@ -1817,7 +1928,8 @@
                     "url": "https://pokeapi.co/api/v2/type/6/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/112.png"
     },
     {
         "id": 113,
@@ -1830,7 +1942,8 @@
                     "url": "https://pokeapi.co/api/v2/type/1/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/113.png"
     },
     {
         "id": 114,
@@ -1843,7 +1956,8 @@
                     "url": "https://pokeapi.co/api/v2/type/12/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/114.png"
     },
     {
         "id": 115,
@@ -1856,7 +1970,8 @@
                     "url": "https://pokeapi.co/api/v2/type/1/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/115.png"
     },
     {
         "id": 116,
@@ -1869,7 +1984,8 @@
                     "url": "https://pokeapi.co/api/v2/type/11/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/116.png"
     },
     {
         "id": 117,
@@ -1882,7 +1998,8 @@
                     "url": "https://pokeapi.co/api/v2/type/11/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/117.png"
     },
     {
         "id": 118,
@@ -1895,7 +2012,8 @@
                     "url": "https://pokeapi.co/api/v2/type/11/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/118.png"
     },
     {
         "id": 119,
@@ -1908,7 +2026,8 @@
                     "url": "https://pokeapi.co/api/v2/type/11/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/119.png"
     },
     {
         "id": 120,
@@ -1921,7 +2040,8 @@
                     "url": "https://pokeapi.co/api/v2/type/11/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/120.png"
     },
     {
         "id": 121,
@@ -1941,7 +2061,8 @@
                     "url": "https://pokeapi.co/api/v2/type/14/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/121.png"
     },
     {
         "id": 122,
@@ -1961,7 +2082,8 @@
                     "url": "https://pokeapi.co/api/v2/type/18/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/122.png"
     },
     {
         "id": 123,
@@ -1981,7 +2103,8 @@
                     "url": "https://pokeapi.co/api/v2/type/3/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/123.png"
     },
     {
         "id": 124,
@@ -2001,7 +2124,8 @@
                     "url": "https://pokeapi.co/api/v2/type/14/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/124.png"
     },
     {
         "id": 125,
@@ -2014,7 +2138,8 @@
                     "url": "https://pokeapi.co/api/v2/type/13/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/125.png"
     },
     {
         "id": 126,
@@ -2027,7 +2152,8 @@
                     "url": "https://pokeapi.co/api/v2/type/10/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/126.png"
     },
     {
         "id": 127,
@@ -2040,7 +2166,8 @@
                     "url": "https://pokeapi.co/api/v2/type/7/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/127.png"
     },
     {
         "id": 128,
@@ -2053,7 +2180,8 @@
                     "url": "https://pokeapi.co/api/v2/type/1/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/128.png"
     },
     {
         "id": 129,
@@ -2066,7 +2194,8 @@
                     "url": "https://pokeapi.co/api/v2/type/11/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/129.png"
     },
     {
         "id": 130,
@@ -2086,7 +2215,8 @@
                     "url": "https://pokeapi.co/api/v2/type/3/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/130.png"
     },
     {
         "id": 131,
@@ -2106,7 +2236,8 @@
                     "url": "https://pokeapi.co/api/v2/type/15/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/131.png"
     },
     {
         "id": 132,
@@ -2119,7 +2250,8 @@
                     "url": "https://pokeapi.co/api/v2/type/1/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/132.png"
     },
     {
         "id": 133,
@@ -2132,7 +2264,8 @@
                     "url": "https://pokeapi.co/api/v2/type/1/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/133.png"
     },
     {
         "id": 134,
@@ -2145,7 +2278,8 @@
                     "url": "https://pokeapi.co/api/v2/type/11/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/134.png"
     },
     {
         "id": 135,
@@ -2158,7 +2292,8 @@
                     "url": "https://pokeapi.co/api/v2/type/13/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/135.png"
     },
     {
         "id": 136,
@@ -2171,7 +2306,8 @@
                     "url": "https://pokeapi.co/api/v2/type/10/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/136.png"
     },
     {
         "id": 137,
@@ -2184,7 +2320,8 @@
                     "url": "https://pokeapi.co/api/v2/type/1/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/137.png"
     },
     {
         "id": 138,
@@ -2204,7 +2341,8 @@
                     "url": "https://pokeapi.co/api/v2/type/11/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/138.png"
     },
     {
         "id": 139,
@@ -2224,7 +2362,8 @@
                     "url": "https://pokeapi.co/api/v2/type/11/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/139.png"
     },
     {
         "id": 140,
@@ -2244,7 +2383,8 @@
                     "url": "https://pokeapi.co/api/v2/type/11/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/140.png"
     },
     {
         "id": 141,
@@ -2264,7 +2404,8 @@
                     "url": "https://pokeapi.co/api/v2/type/11/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/141.png"
     },
     {
         "id": 142,
@@ -2284,7 +2425,8 @@
                     "url": "https://pokeapi.co/api/v2/type/3/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/142.png"
     },
     {
         "id": 143,
@@ -2297,7 +2439,8 @@
                     "url": "https://pokeapi.co/api/v2/type/1/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/143.png"
     },
     {
         "id": 144,
@@ -2317,7 +2460,8 @@
                     "url": "https://pokeapi.co/api/v2/type/3/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/144.png"
     },
     {
         "id": 145,
@@ -2337,7 +2481,8 @@
                     "url": "https://pokeapi.co/api/v2/type/3/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/145.png"
     },
     {
         "id": 146,
@@ -2357,7 +2502,8 @@
                     "url": "https://pokeapi.co/api/v2/type/3/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/146.png"
     },
     {
         "id": 147,
@@ -2370,7 +2516,8 @@
                     "url": "https://pokeapi.co/api/v2/type/16/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/147.png"
     },
     {
         "id": 148,
@@ -2383,7 +2530,8 @@
                     "url": "https://pokeapi.co/api/v2/type/16/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/148.png"
     },
     {
         "id": 149,
@@ -2403,7 +2551,8 @@
                     "url": "https://pokeapi.co/api/v2/type/3/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/149.png"
     },
     {
         "id": 150,
@@ -2416,7 +2565,8 @@
                     "url": "https://pokeapi.co/api/v2/type/14/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png"
     },
     {
         "id": 151,
@@ -2429,7 +2579,8 @@
                     "url": "https://pokeapi.co/api/v2/type/14/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/151.png"
     },
     {
         "id": 152,
@@ -2442,7 +2593,8 @@
                     "url": "https://pokeapi.co/api/v2/type/12/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/152.png"
     },
     {
         "id": 153,
@@ -2455,7 +2607,8 @@
                     "url": "https://pokeapi.co/api/v2/type/12/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/153.png"
     },
     {
         "id": 154,
@@ -2468,7 +2621,8 @@
                     "url": "https://pokeapi.co/api/v2/type/12/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/154.png"
     },
     {
         "id": 155,
@@ -2481,7 +2635,8 @@
                     "url": "https://pokeapi.co/api/v2/type/10/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/155.png"
     },
     {
         "id": 156,
@@ -2494,7 +2649,8 @@
                     "url": "https://pokeapi.co/api/v2/type/10/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/156.png"
     },
     {
         "id": 157,
@@ -2507,7 +2663,8 @@
                     "url": "https://pokeapi.co/api/v2/type/10/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/157.png"
     },
     {
         "id": 158,
@@ -2520,7 +2677,8 @@
                     "url": "https://pokeapi.co/api/v2/type/11/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/158.png"
     },
     {
         "id": 159,
@@ -2533,7 +2691,8 @@
                     "url": "https://pokeapi.co/api/v2/type/11/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/159.png"
     },
     {
         "id": 160,
@@ -2546,7 +2705,8 @@
                     "url": "https://pokeapi.co/api/v2/type/11/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/160.png"
     },
     {
         "id": 161,
@@ -2559,7 +2719,8 @@
                     "url": "https://pokeapi.co/api/v2/type/1/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/161.png"
     },
     {
         "id": 162,
@@ -2572,7 +2733,8 @@
                     "url": "https://pokeapi.co/api/v2/type/1/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/162.png"
     },
     {
         "id": 163,
@@ -2592,7 +2754,8 @@
                     "url": "https://pokeapi.co/api/v2/type/3/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/163.png"
     },
     {
         "id": 164,
@@ -2612,7 +2775,8 @@
                     "url": "https://pokeapi.co/api/v2/type/3/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/164.png"
     },
     {
         "id": 165,
@@ -2632,7 +2796,8 @@
                     "url": "https://pokeapi.co/api/v2/type/3/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/165.png"
     },
     {
         "id": 166,
@@ -2652,7 +2817,8 @@
                     "url": "https://pokeapi.co/api/v2/type/3/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/166.png"
     },
     {
         "id": 167,
@@ -2672,7 +2838,8 @@
                     "url": "https://pokeapi.co/api/v2/type/4/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/167.png"
     },
     {
         "id": 168,
@@ -2692,7 +2859,8 @@
                     "url": "https://pokeapi.co/api/v2/type/4/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/168.png"
     },
     {
         "id": 169,
@@ -2712,7 +2880,8 @@
                     "url": "https://pokeapi.co/api/v2/type/3/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/169.png"
     },
     {
         "id": 170,
@@ -2732,7 +2901,8 @@
                     "url": "https://pokeapi.co/api/v2/type/13/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/170.png"
     },
     {
         "id": 171,
@@ -2752,7 +2922,8 @@
                     "url": "https://pokeapi.co/api/v2/type/13/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/171.png"
     },
     {
         "id": 172,
@@ -2765,7 +2936,8 @@
                     "url": "https://pokeapi.co/api/v2/type/13/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/172.png"
     },
     {
         "id": 173,
@@ -2778,7 +2950,8 @@
                     "url": "https://pokeapi.co/api/v2/type/18/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/173.png"
     },
     {
         "id": 174,
@@ -2798,7 +2971,8 @@
                     "url": "https://pokeapi.co/api/v2/type/18/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/174.png"
     },
     {
         "id": 175,
@@ -2811,7 +2985,8 @@
                     "url": "https://pokeapi.co/api/v2/type/18/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/175.png"
     },
     {
         "id": 176,
@@ -2831,7 +3006,8 @@
                     "url": "https://pokeapi.co/api/v2/type/3/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/176.png"
     },
     {
         "id": 177,
@@ -2851,7 +3027,8 @@
                     "url": "https://pokeapi.co/api/v2/type/3/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/177.png"
     },
     {
         "id": 178,
@@ -2871,7 +3048,8 @@
                     "url": "https://pokeapi.co/api/v2/type/3/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/178.png"
     },
     {
         "id": 179,
@@ -2884,7 +3062,8 @@
                     "url": "https://pokeapi.co/api/v2/type/13/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/179.png"
     },
     {
         "id": 180,
@@ -2897,7 +3076,8 @@
                     "url": "https://pokeapi.co/api/v2/type/13/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/180.png"
     },
     {
         "id": 181,
@@ -2910,7 +3090,8 @@
                     "url": "https://pokeapi.co/api/v2/type/13/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/181.png"
     },
     {
         "id": 182,
@@ -2923,7 +3104,8 @@
                     "url": "https://pokeapi.co/api/v2/type/12/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/182.png"
     },
     {
         "id": 183,
@@ -2943,7 +3125,8 @@
                     "url": "https://pokeapi.co/api/v2/type/18/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/183.png"
     },
     {
         "id": 184,
@@ -2963,7 +3146,8 @@
                     "url": "https://pokeapi.co/api/v2/type/18/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/184.png"
     },
     {
         "id": 185,
@@ -2976,7 +3160,8 @@
                     "url": "https://pokeapi.co/api/v2/type/6/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/185.png"
     },
     {
         "id": 186,
@@ -2989,7 +3174,8 @@
                     "url": "https://pokeapi.co/api/v2/type/11/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/186.png"
     },
     {
         "id": 187,
@@ -3009,7 +3195,8 @@
                     "url": "https://pokeapi.co/api/v2/type/3/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/187.png"
     },
     {
         "id": 188,
@@ -3029,7 +3216,8 @@
                     "url": "https://pokeapi.co/api/v2/type/3/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/188.png"
     },
     {
         "id": 189,
@@ -3049,7 +3237,8 @@
                     "url": "https://pokeapi.co/api/v2/type/3/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/189.png"
     },
     {
         "id": 190,
@@ -3062,7 +3251,8 @@
                     "url": "https://pokeapi.co/api/v2/type/1/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/190.png"
     },
     {
         "id": 191,
@@ -3075,7 +3265,8 @@
                     "url": "https://pokeapi.co/api/v2/type/12/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/191.png"
     },
     {
         "id": 192,
@@ -3088,7 +3279,8 @@
                     "url": "https://pokeapi.co/api/v2/type/12/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/192.png"
     },
     {
         "id": 193,
@@ -3108,7 +3300,8 @@
                     "url": "https://pokeapi.co/api/v2/type/3/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/193.png"
     },
     {
         "id": 194,
@@ -3128,7 +3321,8 @@
                     "url": "https://pokeapi.co/api/v2/type/5/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/194.png"
     },
     {
         "id": 195,
@@ -3148,7 +3342,8 @@
                     "url": "https://pokeapi.co/api/v2/type/5/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/195.png"
     },
     {
         "id": 196,
@@ -3161,7 +3356,8 @@
                     "url": "https://pokeapi.co/api/v2/type/14/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/196.png"
     },
     {
         "id": 197,
@@ -3174,7 +3370,8 @@
                     "url": "https://pokeapi.co/api/v2/type/17/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/197.png"
     },
     {
         "id": 198,
@@ -3194,7 +3391,8 @@
                     "url": "https://pokeapi.co/api/v2/type/3/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/198.png"
     },
     {
         "id": 199,
@@ -3214,7 +3412,8 @@
                     "url": "https://pokeapi.co/api/v2/type/14/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/199.png"
     },
     {
         "id": 200,
@@ -3227,7 +3426,8 @@
                     "url": "https://pokeapi.co/api/v2/type/8/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/200.png"
     },
     {
         "id": 201,
@@ -3240,7 +3440,8 @@
                     "url": "https://pokeapi.co/api/v2/type/14/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/201.png"
     },
     {
         "id": 202,
@@ -3253,7 +3454,8 @@
                     "url": "https://pokeapi.co/api/v2/type/14/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/202.png"
     },
     {
         "id": 203,
@@ -3273,7 +3475,8 @@
                     "url": "https://pokeapi.co/api/v2/type/14/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/203.png"
     },
     {
         "id": 204,
@@ -3286,7 +3489,8 @@
                     "url": "https://pokeapi.co/api/v2/type/7/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/204.png"
     },
     {
         "id": 205,
@@ -3306,7 +3510,8 @@
                     "url": "https://pokeapi.co/api/v2/type/9/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/205.png"
     },
     {
         "id": 206,
@@ -3319,7 +3524,8 @@
                     "url": "https://pokeapi.co/api/v2/type/1/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/206.png"
     },
     {
         "id": 207,
@@ -3339,7 +3545,8 @@
                     "url": "https://pokeapi.co/api/v2/type/3/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/207.png"
     },
     {
         "id": 208,
@@ -3359,7 +3566,8 @@
                     "url": "https://pokeapi.co/api/v2/type/5/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/208.png"
     },
     {
         "id": 209,
@@ -3372,7 +3580,8 @@
                     "url": "https://pokeapi.co/api/v2/type/18/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/209.png"
     },
     {
         "id": 210,
@@ -3385,7 +3594,8 @@
                     "url": "https://pokeapi.co/api/v2/type/18/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/210.png"
     },
     {
         "id": 211,
@@ -3405,7 +3615,8 @@
                     "url": "https://pokeapi.co/api/v2/type/4/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/211.png"
     },
     {
         "id": 212,
@@ -3425,7 +3636,8 @@
                     "url": "https://pokeapi.co/api/v2/type/9/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/212.png"
     },
     {
         "id": 213,
@@ -3445,7 +3657,8 @@
                     "url": "https://pokeapi.co/api/v2/type/6/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/213.png"
     },
     {
         "id": 214,
@@ -3465,7 +3678,8 @@
                     "url": "https://pokeapi.co/api/v2/type/2/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/214.png"
     },
     {
         "id": 215,
@@ -3485,7 +3699,8 @@
                     "url": "https://pokeapi.co/api/v2/type/15/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/215.png"
     },
     {
         "id": 216,
@@ -3498,7 +3713,8 @@
                     "url": "https://pokeapi.co/api/v2/type/1/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/216.png"
     },
     {
         "id": 217,
@@ -3511,7 +3727,8 @@
                     "url": "https://pokeapi.co/api/v2/type/1/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/217.png"
     },
     {
         "id": 218,
@@ -3524,7 +3741,8 @@
                     "url": "https://pokeapi.co/api/v2/type/10/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/218.png"
     },
     {
         "id": 219,
@@ -3544,7 +3762,8 @@
                     "url": "https://pokeapi.co/api/v2/type/6/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/219.png"
     },
     {
         "id": 220,
@@ -3564,7 +3783,8 @@
                     "url": "https://pokeapi.co/api/v2/type/5/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/220.png"
     },
     {
         "id": 221,
@@ -3584,7 +3804,8 @@
                     "url": "https://pokeapi.co/api/v2/type/5/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/221.png"
     },
     {
         "id": 222,
@@ -3604,7 +3825,8 @@
                     "url": "https://pokeapi.co/api/v2/type/6/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/222.png"
     },
     {
         "id": 223,
@@ -3617,7 +3839,8 @@
                     "url": "https://pokeapi.co/api/v2/type/11/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/223.png"
     },
     {
         "id": 224,
@@ -3630,7 +3853,8 @@
                     "url": "https://pokeapi.co/api/v2/type/11/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/224.png"
     },
     {
         "id": 225,
@@ -3650,7 +3874,8 @@
                     "url": "https://pokeapi.co/api/v2/type/3/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/225.png"
     },
     {
         "id": 226,
@@ -3670,7 +3895,8 @@
                     "url": "https://pokeapi.co/api/v2/type/3/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/226.png"
     },
     {
         "id": 227,
@@ -3690,7 +3916,8 @@
                     "url": "https://pokeapi.co/api/v2/type/3/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/227.png"
     },
     {
         "id": 228,
@@ -3710,7 +3937,8 @@
                     "url": "https://pokeapi.co/api/v2/type/10/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/228.png"
     },
     {
         "id": 229,
@@ -3730,7 +3958,8 @@
                     "url": "https://pokeapi.co/api/v2/type/10/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/229.png"
     },
     {
         "id": 230,
@@ -3750,7 +3979,8 @@
                     "url": "https://pokeapi.co/api/v2/type/16/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/230.png"
     },
     {
         "id": 231,
@@ -3763,7 +3993,8 @@
                     "url": "https://pokeapi.co/api/v2/type/5/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/231.png"
     },
     {
         "id": 232,
@@ -3776,7 +4007,8 @@
                     "url": "https://pokeapi.co/api/v2/type/5/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/232.png"
     },
     {
         "id": 233,
@@ -3789,7 +4021,8 @@
                     "url": "https://pokeapi.co/api/v2/type/1/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/233.png"
     },
     {
         "id": 234,
@@ -3802,7 +4035,8 @@
                     "url": "https://pokeapi.co/api/v2/type/1/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/234.png"
     },
     {
         "id": 235,
@@ -3815,7 +4049,8 @@
                     "url": "https://pokeapi.co/api/v2/type/1/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/235.png"
     },
     {
         "id": 236,
@@ -3828,7 +4063,8 @@
                     "url": "https://pokeapi.co/api/v2/type/2/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/236.png"
     },
     {
         "id": 237,
@@ -3841,7 +4077,8 @@
                     "url": "https://pokeapi.co/api/v2/type/2/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/237.png"
     },
     {
         "id": 238,
@@ -3861,7 +4098,8 @@
                     "url": "https://pokeapi.co/api/v2/type/14/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/238.png"
     },
     {
         "id": 239,
@@ -3874,7 +4112,8 @@
                     "url": "https://pokeapi.co/api/v2/type/13/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/239.png"
     },
     {
         "id": 240,
@@ -3887,7 +4126,8 @@
                     "url": "https://pokeapi.co/api/v2/type/10/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/240.png"
     },
     {
         "id": 241,
@@ -3900,7 +4140,8 @@
                     "url": "https://pokeapi.co/api/v2/type/1/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/241.png"
     },
     {
         "id": 242,
@@ -3913,7 +4154,8 @@
                     "url": "https://pokeapi.co/api/v2/type/1/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/242.png"
     },
     {
         "id": 243,
@@ -3926,7 +4168,8 @@
                     "url": "https://pokeapi.co/api/v2/type/13/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/243.png"
     },
     {
         "id": 244,
@@ -3939,7 +4182,8 @@
                     "url": "https://pokeapi.co/api/v2/type/10/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/244.png"
     },
     {
         "id": 245,
@@ -3952,7 +4196,8 @@
                     "url": "https://pokeapi.co/api/v2/type/11/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/245.png"
     },
     {
         "id": 246,
@@ -3972,7 +4217,8 @@
                     "url": "https://pokeapi.co/api/v2/type/5/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/246.png"
     },
     {
         "id": 247,
@@ -3992,7 +4238,8 @@
                     "url": "https://pokeapi.co/api/v2/type/5/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/247.png"
     },
     {
         "id": 248,
@@ -4012,7 +4259,8 @@
                     "url": "https://pokeapi.co/api/v2/type/17/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/248.png"
     },
     {
         "id": 249,
@@ -4032,7 +4280,8 @@
                     "url": "https://pokeapi.co/api/v2/type/3/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/249.png"
     },
     {
         "id": 250,
@@ -4052,7 +4301,8 @@
                     "url": "https://pokeapi.co/api/v2/type/3/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/250.png"
     },
     {
         "id": 251,
@@ -4072,7 +4322,8 @@
                     "url": "https://pokeapi.co/api/v2/type/12/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/251.png"
     },
     {
         "id": 252,
@@ -4085,7 +4336,8 @@
                     "url": "https://pokeapi.co/api/v2/type/12/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/252.png"
     },
     {
         "id": 253,
@@ -4098,7 +4350,8 @@
                     "url": "https://pokeapi.co/api/v2/type/12/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/253.png"
     },
     {
         "id": 254,
@@ -4111,7 +4364,8 @@
                     "url": "https://pokeapi.co/api/v2/type/12/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/254.png"
     },
     {
         "id": 255,
@@ -4124,7 +4378,8 @@
                     "url": "https://pokeapi.co/api/v2/type/10/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/255.png"
     },
     {
         "id": 256,
@@ -4144,7 +4399,8 @@
                     "url": "https://pokeapi.co/api/v2/type/2/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/256.png"
     },
     {
         "id": 257,
@@ -4164,7 +4420,8 @@
                     "url": "https://pokeapi.co/api/v2/type/2/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/257.png"
     },
     {
         "id": 258,
@@ -4177,7 +4434,8 @@
                     "url": "https://pokeapi.co/api/v2/type/11/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/258.png"
     },
     {
         "id": 259,
@@ -4197,7 +4455,8 @@
                     "url": "https://pokeapi.co/api/v2/type/5/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/259.png"
     },
     {
         "id": 260,
@@ -4217,7 +4476,8 @@
                     "url": "https://pokeapi.co/api/v2/type/5/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/260.png"
     },
     {
         "id": 261,
@@ -4230,7 +4490,8 @@
                     "url": "https://pokeapi.co/api/v2/type/17/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/261.png"
     },
     {
         "id": 262,
@@ -4243,7 +4504,8 @@
                     "url": "https://pokeapi.co/api/v2/type/17/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/262.png"
     },
     {
         "id": 263,
@@ -4256,7 +4518,8 @@
                     "url": "https://pokeapi.co/api/v2/type/1/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/263.png"
     },
     {
         "id": 264,
@@ -4269,7 +4532,8 @@
                     "url": "https://pokeapi.co/api/v2/type/1/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/264.png"
     },
     {
         "id": 265,
@@ -4282,7 +4546,8 @@
                     "url": "https://pokeapi.co/api/v2/type/7/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/265.png"
     },
     {
         "id": 266,
@@ -4295,7 +4560,8 @@
                     "url": "https://pokeapi.co/api/v2/type/7/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/266.png"
     },
     {
         "id": 267,
@@ -4315,7 +4581,8 @@
                     "url": "https://pokeapi.co/api/v2/type/3/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/267.png"
     },
     {
         "id": 268,
@@ -4328,7 +4595,8 @@
                     "url": "https://pokeapi.co/api/v2/type/7/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/268.png"
     },
     {
         "id": 269,
@@ -4348,7 +4616,8 @@
                     "url": "https://pokeapi.co/api/v2/type/4/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/269.png"
     },
     {
         "id": 270,
@@ -4368,7 +4637,8 @@
                     "url": "https://pokeapi.co/api/v2/type/12/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/270.png"
     },
     {
         "id": 271,
@@ -4388,7 +4658,8 @@
                     "url": "https://pokeapi.co/api/v2/type/12/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/271.png"
     },
     {
         "id": 272,
@@ -4408,7 +4679,8 @@
                     "url": "https://pokeapi.co/api/v2/type/12/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/272.png"
     },
     {
         "id": 273,
@@ -4421,7 +4693,8 @@
                     "url": "https://pokeapi.co/api/v2/type/12/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/273.png"
     },
     {
         "id": 274,
@@ -4441,7 +4714,8 @@
                     "url": "https://pokeapi.co/api/v2/type/17/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/274.png"
     },
     {
         "id": 275,
@@ -4461,7 +4735,8 @@
                     "url": "https://pokeapi.co/api/v2/type/17/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/275.png"
     },
     {
         "id": 276,
@@ -4481,7 +4756,8 @@
                     "url": "https://pokeapi.co/api/v2/type/3/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/276.png"
     },
     {
         "id": 277,
@@ -4501,7 +4777,8 @@
                     "url": "https://pokeapi.co/api/v2/type/3/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/277.png"
     },
     {
         "id": 278,
@@ -4521,7 +4798,8 @@
                     "url": "https://pokeapi.co/api/v2/type/3/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/278.png"
     },
     {
         "id": 279,
@@ -4541,7 +4819,8 @@
                     "url": "https://pokeapi.co/api/v2/type/3/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/279.png"
     },
     {
         "id": 280,
@@ -4561,7 +4840,8 @@
                     "url": "https://pokeapi.co/api/v2/type/18/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/280.png"
     },
     {
         "id": 281,
@@ -4581,7 +4861,8 @@
                     "url": "https://pokeapi.co/api/v2/type/18/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/281.png"
     },
     {
         "id": 282,
@@ -4601,7 +4882,8 @@
                     "url": "https://pokeapi.co/api/v2/type/18/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/282.png"
     },
     {
         "id": 283,
@@ -4621,7 +4903,8 @@
                     "url": "https://pokeapi.co/api/v2/type/11/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/283.png"
     },
     {
         "id": 284,
@@ -4641,7 +4924,8 @@
                     "url": "https://pokeapi.co/api/v2/type/3/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/284.png"
     },
     {
         "id": 285,
@@ -4654,7 +4938,8 @@
                     "url": "https://pokeapi.co/api/v2/type/12/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/285.png"
     },
     {
         "id": 286,
@@ -4674,7 +4959,8 @@
                     "url": "https://pokeapi.co/api/v2/type/2/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/286.png"
     },
     {
         "id": 287,
@@ -4687,7 +4973,8 @@
                     "url": "https://pokeapi.co/api/v2/type/1/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/287.png"
     },
     {
         "id": 288,
@@ -4700,7 +4987,8 @@
                     "url": "https://pokeapi.co/api/v2/type/1/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/288.png"
     },
     {
         "id": 289,
@@ -4713,7 +5001,8 @@
                     "url": "https://pokeapi.co/api/v2/type/1/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/289.png"
     },
     {
         "id": 290,
@@ -4733,7 +5022,8 @@
                     "url": "https://pokeapi.co/api/v2/type/5/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/290.png"
     },
     {
         "id": 291,
@@ -4753,7 +5043,8 @@
                     "url": "https://pokeapi.co/api/v2/type/3/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/291.png"
     },
     {
         "id": 292,
@@ -4773,7 +5064,8 @@
                     "url": "https://pokeapi.co/api/v2/type/8/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/292.png"
     },
     {
         "id": 293,
@@ -4786,7 +5078,8 @@
                     "url": "https://pokeapi.co/api/v2/type/1/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/293.png"
     },
     {
         "id": 294,
@@ -4799,7 +5092,8 @@
                     "url": "https://pokeapi.co/api/v2/type/1/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/294.png"
     },
     {
         "id": 295,
@@ -4812,7 +5106,8 @@
                     "url": "https://pokeapi.co/api/v2/type/1/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/295.png"
     },
     {
         "id": 296,
@@ -4825,7 +5120,8 @@
                     "url": "https://pokeapi.co/api/v2/type/2/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/296.png"
     },
     {
         "id": 297,
@@ -4838,7 +5134,8 @@
                     "url": "https://pokeapi.co/api/v2/type/2/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/297.png"
     },
     {
         "id": 298,
@@ -4858,7 +5155,8 @@
                     "url": "https://pokeapi.co/api/v2/type/18/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/298.png"
     },
     {
         "id": 299,
@@ -4871,7 +5169,8 @@
                     "url": "https://pokeapi.co/api/v2/type/6/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/299.png"
     },
     {
         "id": 300,
@@ -4884,7 +5183,8 @@
                     "url": "https://pokeapi.co/api/v2/type/1/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/300.png"
     },
     {
         "id": 301,
@@ -4897,7 +5197,8 @@
                     "url": "https://pokeapi.co/api/v2/type/1/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/301.png"
     },
     {
         "id": 302,
@@ -4917,7 +5218,8 @@
                     "url": "https://pokeapi.co/api/v2/type/8/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/302.png"
     },
     {
         "id": 303,
@@ -4937,7 +5239,8 @@
                     "url": "https://pokeapi.co/api/v2/type/18/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/303.png"
     },
     {
         "id": 304,
@@ -4957,7 +5260,8 @@
                     "url": "https://pokeapi.co/api/v2/type/6/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/304.png"
     },
     {
         "id": 305,
@@ -4977,7 +5281,8 @@
                     "url": "https://pokeapi.co/api/v2/type/6/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/305.png"
     },
     {
         "id": 306,
@@ -4997,7 +5302,8 @@
                     "url": "https://pokeapi.co/api/v2/type/6/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/306.png"
     },
     {
         "id": 307,
@@ -5017,7 +5323,8 @@
                     "url": "https://pokeapi.co/api/v2/type/14/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/307.png"
     },
     {
         "id": 308,
@@ -5037,7 +5344,8 @@
                     "url": "https://pokeapi.co/api/v2/type/14/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/308.png"
     },
     {
         "id": 309,
@@ -5050,7 +5358,8 @@
                     "url": "https://pokeapi.co/api/v2/type/13/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/309.png"
     },
     {
         "id": 310,
@@ -5063,7 +5372,8 @@
                     "url": "https://pokeapi.co/api/v2/type/13/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/310.png"
     },
     {
         "id": 311,
@@ -5076,7 +5386,8 @@
                     "url": "https://pokeapi.co/api/v2/type/13/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/311.png"
     },
     {
         "id": 312,
@@ -5089,7 +5400,8 @@
                     "url": "https://pokeapi.co/api/v2/type/13/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/312.png"
     },
     {
         "id": 313,
@@ -5102,7 +5414,8 @@
                     "url": "https://pokeapi.co/api/v2/type/7/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/313.png"
     },
     {
         "id": 314,
@@ -5115,7 +5428,8 @@
                     "url": "https://pokeapi.co/api/v2/type/7/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/314.png"
     },
     {
         "id": 315,
@@ -5135,7 +5449,8 @@
                     "url": "https://pokeapi.co/api/v2/type/4/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/315.png"
     },
     {
         "id": 316,
@@ -5148,7 +5463,8 @@
                     "url": "https://pokeapi.co/api/v2/type/4/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/316.png"
     },
     {
         "id": 317,
@@ -5161,7 +5477,8 @@
                     "url": "https://pokeapi.co/api/v2/type/4/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/317.png"
     },
     {
         "id": 318,
@@ -5181,7 +5498,8 @@
                     "url": "https://pokeapi.co/api/v2/type/17/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/318.png"
     },
     {
         "id": 319,
@@ -5201,7 +5519,8 @@
                     "url": "https://pokeapi.co/api/v2/type/17/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/319.png"
     },
     {
         "id": 320,
@@ -5214,7 +5533,8 @@
                     "url": "https://pokeapi.co/api/v2/type/11/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/320.png"
     },
     {
         "id": 321,
@@ -5227,7 +5547,8 @@
                     "url": "https://pokeapi.co/api/v2/type/11/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/321.png"
     },
     {
         "id": 322,
@@ -5247,7 +5568,8 @@
                     "url": "https://pokeapi.co/api/v2/type/5/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/322.png"
     },
     {
         "id": 323,
@@ -5267,7 +5589,8 @@
                     "url": "https://pokeapi.co/api/v2/type/5/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/323.png"
     },
     {
         "id": 324,
@@ -5280,7 +5603,8 @@
                     "url": "https://pokeapi.co/api/v2/type/10/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/324.png"
     },
     {
         "id": 325,
@@ -5293,7 +5617,8 @@
                     "url": "https://pokeapi.co/api/v2/type/14/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/325.png"
     },
     {
         "id": 326,
@@ -5306,7 +5631,8 @@
                     "url": "https://pokeapi.co/api/v2/type/14/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/326.png"
     },
     {
         "id": 327,
@@ -5319,7 +5645,8 @@
                     "url": "https://pokeapi.co/api/v2/type/1/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/327.png"
     },
     {
         "id": 328,
@@ -5332,7 +5659,8 @@
                     "url": "https://pokeapi.co/api/v2/type/5/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/328.png"
     },
     {
         "id": 329,
@@ -5352,7 +5680,8 @@
                     "url": "https://pokeapi.co/api/v2/type/16/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/329.png"
     },
     {
         "id": 330,
@@ -5372,7 +5701,8 @@
                     "url": "https://pokeapi.co/api/v2/type/16/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/330.png"
     },
     {
         "id": 331,
@@ -5385,7 +5715,8 @@
                     "url": "https://pokeapi.co/api/v2/type/12/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/331.png"
     },
     {
         "id": 332,
@@ -5405,7 +5736,8 @@
                     "url": "https://pokeapi.co/api/v2/type/17/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/332.png"
     },
     {
         "id": 333,
@@ -5425,7 +5757,8 @@
                     "url": "https://pokeapi.co/api/v2/type/3/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/333.png"
     },
     {
         "id": 334,
@@ -5445,7 +5778,8 @@
                     "url": "https://pokeapi.co/api/v2/type/3/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/334.png"
     },
     {
         "id": 335,
@@ -5458,7 +5792,8 @@
                     "url": "https://pokeapi.co/api/v2/type/1/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/335.png"
     },
     {
         "id": 336,
@@ -5471,7 +5806,8 @@
                     "url": "https://pokeapi.co/api/v2/type/4/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/336.png"
     },
     {
         "id": 337,
@@ -5491,7 +5827,8 @@
                     "url": "https://pokeapi.co/api/v2/type/14/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/337.png"
     },
     {
         "id": 338,
@@ -5511,7 +5848,8 @@
                     "url": "https://pokeapi.co/api/v2/type/14/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/338.png"
     },
     {
         "id": 339,
@@ -5531,7 +5869,8 @@
                     "url": "https://pokeapi.co/api/v2/type/5/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/339.png"
     },
     {
         "id": 340,
@@ -5551,7 +5890,8 @@
                     "url": "https://pokeapi.co/api/v2/type/5/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/340.png"
     },
     {
         "id": 341,
@@ -5564,7 +5904,8 @@
                     "url": "https://pokeapi.co/api/v2/type/11/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/341.png"
     },
     {
         "id": 342,
@@ -5584,7 +5925,8 @@
                     "url": "https://pokeapi.co/api/v2/type/17/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/342.png"
     },
     {
         "id": 343,
@@ -5604,7 +5946,8 @@
                     "url": "https://pokeapi.co/api/v2/type/14/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/343.png"
     },
     {
         "id": 344,
@@ -5624,7 +5967,8 @@
                     "url": "https://pokeapi.co/api/v2/type/14/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/344.png"
     },
     {
         "id": 345,
@@ -5644,7 +5988,8 @@
                     "url": "https://pokeapi.co/api/v2/type/12/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/345.png"
     },
     {
         "id": 346,
@@ -5664,7 +6009,8 @@
                     "url": "https://pokeapi.co/api/v2/type/12/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/346.png"
     },
     {
         "id": 347,
@@ -5684,7 +6030,8 @@
                     "url": "https://pokeapi.co/api/v2/type/7/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/347.png"
     },
     {
         "id": 348,
@@ -5704,7 +6051,8 @@
                     "url": "https://pokeapi.co/api/v2/type/7/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/348.png"
     },
     {
         "id": 349,
@@ -5717,7 +6065,8 @@
                     "url": "https://pokeapi.co/api/v2/type/11/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/349.png"
     },
     {
         "id": 350,
@@ -5730,7 +6079,8 @@
                     "url": "https://pokeapi.co/api/v2/type/11/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/350.png"
     },
     {
         "id": 351,
@@ -5743,7 +6093,8 @@
                     "url": "https://pokeapi.co/api/v2/type/1/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/351.png"
     },
     {
         "id": 352,
@@ -5756,7 +6107,8 @@
                     "url": "https://pokeapi.co/api/v2/type/1/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/352.png"
     },
     {
         "id": 353,
@@ -5769,7 +6121,8 @@
                     "url": "https://pokeapi.co/api/v2/type/8/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/353.png"
     },
     {
         "id": 354,
@@ -5782,7 +6135,8 @@
                     "url": "https://pokeapi.co/api/v2/type/8/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/354.png"
     },
     {
         "id": 355,
@@ -5795,7 +6149,8 @@
                     "url": "https://pokeapi.co/api/v2/type/8/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/355.png"
     },
     {
         "id": 356,
@@ -5808,7 +6163,8 @@
                     "url": "https://pokeapi.co/api/v2/type/8/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/356.png"
     },
     {
         "id": 357,
@@ -5828,7 +6184,8 @@
                     "url": "https://pokeapi.co/api/v2/type/3/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/357.png"
     },
     {
         "id": 358,
@@ -5841,7 +6198,8 @@
                     "url": "https://pokeapi.co/api/v2/type/14/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/358.png"
     },
     {
         "id": 359,
@@ -5854,7 +6212,8 @@
                     "url": "https://pokeapi.co/api/v2/type/17/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/359.png"
     },
     {
         "id": 360,
@@ -5867,7 +6226,8 @@
                     "url": "https://pokeapi.co/api/v2/type/14/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/360.png"
     },
     {
         "id": 361,
@@ -5880,7 +6240,8 @@
                     "url": "https://pokeapi.co/api/v2/type/15/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/361.png"
     },
     {
         "id": 362,
@@ -5893,7 +6254,8 @@
                     "url": "https://pokeapi.co/api/v2/type/15/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/362.png"
     },
     {
         "id": 363,
@@ -5913,7 +6275,8 @@
                     "url": "https://pokeapi.co/api/v2/type/11/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/363.png"
     },
     {
         "id": 364,
@@ -5933,7 +6296,8 @@
                     "url": "https://pokeapi.co/api/v2/type/11/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/364.png"
     },
     {
         "id": 365,
@@ -5953,7 +6317,8 @@
                     "url": "https://pokeapi.co/api/v2/type/11/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/365.png"
     },
     {
         "id": 366,
@@ -5966,7 +6331,8 @@
                     "url": "https://pokeapi.co/api/v2/type/11/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/366.png"
     },
     {
         "id": 367,
@@ -5979,7 +6345,8 @@
                     "url": "https://pokeapi.co/api/v2/type/11/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/367.png"
     },
     {
         "id": 368,
@@ -5992,7 +6359,8 @@
                     "url": "https://pokeapi.co/api/v2/type/11/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/368.png"
     },
     {
         "id": 369,
@@ -6012,7 +6380,8 @@
                     "url": "https://pokeapi.co/api/v2/type/6/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/369.png"
     },
     {
         "id": 370,
@@ -6025,7 +6394,8 @@
                     "url": "https://pokeapi.co/api/v2/type/11/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/370.png"
     },
     {
         "id": 371,
@@ -6038,7 +6408,8 @@
                     "url": "https://pokeapi.co/api/v2/type/16/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/371.png"
     },
     {
         "id": 372,
@@ -6051,7 +6422,8 @@
                     "url": "https://pokeapi.co/api/v2/type/16/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/372.png"
     },
     {
         "id": 373,
@@ -6071,7 +6443,8 @@
                     "url": "https://pokeapi.co/api/v2/type/3/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/373.png"
     },
     {
         "id": 374,
@@ -6091,7 +6464,8 @@
                     "url": "https://pokeapi.co/api/v2/type/14/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/374.png"
     },
     {
         "id": 375,
@@ -6111,7 +6485,8 @@
                     "url": "https://pokeapi.co/api/v2/type/14/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/375.png"
     },
     {
         "id": 376,
@@ -6131,7 +6506,8 @@
                     "url": "https://pokeapi.co/api/v2/type/14/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/376.png"
     },
     {
         "id": 377,
@@ -6144,7 +6520,8 @@
                     "url": "https://pokeapi.co/api/v2/type/6/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/377.png"
     },
     {
         "id": 378,
@@ -6157,7 +6534,8 @@
                     "url": "https://pokeapi.co/api/v2/type/15/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/378.png"
     },
     {
         "id": 379,
@@ -6170,7 +6548,8 @@
                     "url": "https://pokeapi.co/api/v2/type/9/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/379.png"
     },
     {
         "id": 380,
@@ -6190,7 +6569,8 @@
                     "url": "https://pokeapi.co/api/v2/type/14/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/380.png"
     },
     {
         "id": 381,
@@ -6210,7 +6590,8 @@
                     "url": "https://pokeapi.co/api/v2/type/14/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/381.png"
     },
     {
         "id": 382,
@@ -6223,7 +6604,8 @@
                     "url": "https://pokeapi.co/api/v2/type/11/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/382.png"
     },
     {
         "id": 383,
@@ -6236,7 +6618,8 @@
                     "url": "https://pokeapi.co/api/v2/type/5/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/383.png"
     },
     {
         "id": 384,
@@ -6256,7 +6639,8 @@
                     "url": "https://pokeapi.co/api/v2/type/3/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/384.png"
     },
     {
         "id": 385,
@@ -6276,7 +6660,8 @@
                     "url": "https://pokeapi.co/api/v2/type/14/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/385.png"
     },
     {
         "id": 386,
@@ -6289,6 +6674,7 @@
                     "url": "https://pokeapi.co/api/v2/type/14/"
                 }
             }
-        ]
+        ],
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/386.png"
     }
 ]

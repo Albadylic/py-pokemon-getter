@@ -12,7 +12,8 @@ def makeReq(id):
         relevantData = {
             'id': data['id'],
             'name': data['name'],
-            'types': data['types']
+            'types': data['types'],
+            'sprite': data['sprites']['front_default']
         }
         return relevantData
     else:
